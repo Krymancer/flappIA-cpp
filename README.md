@@ -5,7 +5,7 @@ I was studing neural networks so i implemented a class in c++ and test it with a
   <img alt="FlappyBird" src=".github/iaflappy.gif">
 </p>
 
-I know the project need some improvements, and maybe in the future i solve some issues but, for my study is good enought.
+I know the project need some improvements, and maybe in the future i solve some issues but, for my study, is good enough.
 
 ## Todo
   - Reimplement Player class
